@@ -1,0 +1,23 @@
+[2024-08-12 20:12:19] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='123', nombre='Juan', apellido='Perez'}
+[2024-08-12 20:12:19] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='456', nombre='Ana', apellido='Gomez'}
+[2024-08-12 20:12:19] [ INFO ] [OdontologoDAOArrayListImpl:22] Listando todos los odontólogos.
+[2024-08-12 20:14:22] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='123', nombre='Juan', apellido='Perez'}
+[2024-08-12 20:14:22] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='456', nombre='Ana', apellido='Gomez'}
+[2024-08-12 20:14:22] [ INFO ] [OdontologoDAOArrayListImpl:22] Listando todos los odontólogos.
+[2024-08-12 20:14:59] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='123', nombre='Juan', apellido='Perez'}
+[2024-08-12 20:14:59] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='456', nombre='Ana', apellido='Gomez'}
+[2024-08-12 20:14:59] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='987', nombre='Mariana', apellido='Cano'}
+[2024-08-12 20:14:59] [ INFO ] [OdontologoDAOArrayListImpl:22] Listando todos los odontólogos.
+[2024-08-12 20:15:22] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='123', nombre='Juan', apellido='Perez'}
+[2024-08-12 20:15:22] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='456', nombre='Ana', apellido='Gomez'}
+[2024-08-12 20:15:22] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='987', nombre='Mariana', apellido='Cano'}
+[2024-08-12 20:15:22] [ INFO ] [OdontologoDAOArrayListImpl:22] Listando todos los odontólogos.
+[2024-08-12 20:15:36] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='123', nombre='Juan', apellido='Perez'}
+[2024-08-12 20:15:36] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='456', nombre='Ana', apellido='Gomez'}
+[2024-08-12 20:15:36] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='987', nombre='Mariana', apellido='Cano'}
+[2024-08-12 20:15:36] [ INFO ] [OdontologoDAOArrayListImpl:22] Listando todos los odontólogos.
+[2024-08-12 20:16:35] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='123', nombre='Juan', apellido='Perez'}
+[2024-08-12 20:16:35] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='456', nombre='Ana', apellido='Gomez'}
+[2024-08-12 20:16:35] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='987', nombre='Mariana', apellido='Cano'}
+[2024-08-12 20:16:35] [ INFO ] [OdontologoDAOArrayListImpl:17] Odontólogo guardado: Odontologo{id=null, numeroMatricula='567', nombre='Oscar', apellido='Garcia'}
+[2024-08-12 20:16:35] [ INFO ] [OdontologoDAOArrayListImpl:22] Listando todos los odontólogos.
